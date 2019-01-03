@@ -1,6 +1,6 @@
 <?php    $x="amit" 
 
-
+         $y="Yadav"
 ?>
 <html>
 <head>
@@ -12,6 +12,7 @@
 
 echo "hello";
 echo $x;
+echo $y;
 ?>
 
 
