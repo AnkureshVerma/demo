@@ -1,6 +1,6 @@
-<?php    $x="amit" 
+<?php    $x="amit" ;
 
-         $y="Yadav"
+         $y="Yadav";
 ?>
 <html>
 <head>
