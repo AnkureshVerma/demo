@@ -1,4 +1,4 @@
-<?php    $x="Ram" 
+<?php    $x="amit" 
 
 
 ?>
